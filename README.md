@@ -1,8 +1,8 @@
 ### Hi there 🙃👋
 
 
-- 🍉 I’m currently working on experimenting with my Portfolio
-- 🌱 I’m currently practicing with a CMS & JS/React Framework
+- 🍉 I’m currently working on experimenting with my React Quiz Application
+- 🌱 I’m currently practicing with a JS/React Framework
 - 👯 I’m looking to collaborate on anything that sounds cool!
 - 🤔 I’m looking for help improving my backend understanding/knowledge
 - 💬 Ask me about being a Junior Developer & career change experience
