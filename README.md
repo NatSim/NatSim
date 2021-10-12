@@ -1,7 +1,7 @@
 ### Hi there 🙃👋
 
 
-- 🍉 I’m currently working on experimenting with my React Quiz Application
+- 🍉 I’m currently working on a React Quiz Application
 - 🌱 I’m currently practicing with a JS/React Framework
 - 👯 I’m looking to collaborate on anything that sounds cool!
 - 🤔 I’m looking for help improving my backend understanding/knowledge
